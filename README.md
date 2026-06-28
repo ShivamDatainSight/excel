@@ -12,3 +12,9 @@ This repository contains Excel learning resources, including formulas, functions
 These files are useful for beginners as well as intermediate Excel users to improve their spreadsheet and data analysis skills.
 
 Feel free to explore, download, and use the resources for learning and practice.
+
+
+Here’s a clean GitHub-style line for your file:
+
+**📊 PNRao_RealEstate_Rental_Agreements.xlsx – Providing practice Excel dataset for real estate rental agreement analysis and hands-on data analytics practice.**
+x
